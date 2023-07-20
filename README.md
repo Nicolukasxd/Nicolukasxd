@@ -1,4 +1,4 @@
-# Hello, I'm Nicolas Cuellar👋
+# Hello, I'm Nicolas Cuellar 👋
 
 I'm a JavaScript Full-Stack developer living in Colombia, I'm a 6th semester student of systems engineering worked on different projects for college with JavaScript and MySql.
 
